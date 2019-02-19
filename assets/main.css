@@ -1,0 +1,9 @@
+.card {
+    /* height: 520px !important; */
+    margin-bottom: 10px !important;
+}
+
+#clearBtn {
+    background: white !important;
+    color: black
+}
